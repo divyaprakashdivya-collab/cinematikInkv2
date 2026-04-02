@@ -1,0 +1,53 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="50" y1="60" x2="1080" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1120"/>
+      <stop offset="1" stop-color="#101A34"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#63F7FF"/>
+      <stop offset="1" stop-color="#7892FF"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#C576FF"/>
+      <stop offset="1" stop-color="#FF9CE1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="34" fill="url(#bg)"/>
+  <text x="88" y="108" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">WHAT VISITORS SHOULD FEEL</text>
+  <text x="88" y="148" fill="#97AFD8" font-family="Arial, Helvetica, sans-serif" font-size="22">capability must be visible before the conversation begins</text>
+
+  <rect x="88" y="210" width="480" height="260" rx="28" fill="#101A35" stroke="#63F7FF" stroke-opacity="0.2"/>
+  <text x="124" y="258" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">This person can shape a raw idea</text>
+  <text x="124" y="300" fill="#93AAD4" font-family="Arial, Helvetica, sans-serif" font-size="19">into a sharp narrative, a premium page,</text>
+  <text x="124" y="326" fill="#93AAD4" font-family="Arial, Helvetica, sans-serif" font-size="19">and a presentation-worthy creative system.</text>
+  <rect x="124" y="354" width="408" height="74" rx="18" fill="#132141"/>
+  <path d="M154 408H226" stroke="url(#g1)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M254 388H408" stroke="url(#g1)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M254 416H462" stroke="url(#g1)" stroke-width="6" stroke-linecap="round"/>
+
+  <rect x="612" y="210" width="500" height="260" rx="28" fill="#101A35" stroke="#C576FF" stroke-opacity="0.22"/>
+  <text x="648" y="258" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">This is not generic content work</text>
+  <text x="648" y="300" fill="#93AAD4" font-family="Arial, Helvetica, sans-serif" font-size="19">It is storytelling with architecture —</text>
+  <text x="648" y="326" fill="#93AAD4" font-family="Arial, Helvetica, sans-serif" font-size="19">strategy, emotion, clarity and visual command.</text>
+  <circle cx="738" cy="386" r="42" stroke="url(#g2)" stroke-width="6"/>
+  <path d="M742 370L770 386L742 402V370Z" fill="#E4B2FF"/>
+  <rect x="812" y="350" width="234" height="72" rx="18" fill="#132141"/>
+  <text x="842" y="394" fill="#F7FBFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">AI powered. Human led.</text>
+
+  <rect x="88" y="520" width="1024" height="280" rx="30" fill="#0D1630" stroke="#63F7FF" stroke-opacity="0.14"/>
+  <text x="126" y="576" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">TRUST SIGNALS</text>
+  <text x="126" y="616" fill="#95ADD7" font-family="Arial, Helvetica, sans-serif" font-size="20">clarity of message • premium structure • memorable voice • cinematic visual rhythm</text>
+
+  <rect x="126" y="664" width="212" height="86" rx="20" fill="#132141" stroke="#63F7FF" stroke-opacity="0.16"/>
+  <text x="168" y="717" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Founder clarity</text>
+
+  <rect x="364" y="664" width="212" height="86" rx="20" fill="#132141" stroke="#63F7FF" stroke-opacity="0.16"/>
+  <text x="405" y="717" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Visual authority</text>
+
+  <rect x="602" y="664" width="212" height="86" rx="20" fill="#132141" stroke="#C576FF" stroke-opacity="0.18"/>
+  <text x="646" y="717" fill="#F1E4FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Strategic tone</text>
+
+  <rect x="840" y="664" width="232" height="86" rx="20" fill="#132141" stroke="#63F7FF" stroke-opacity="0.16"/>
+  <text x="876" y="717" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Cinematic recall</text>
+</svg>

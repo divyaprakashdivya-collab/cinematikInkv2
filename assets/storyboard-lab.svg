@@ -1,0 +1,94 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="60" x2="1260" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#091120"/>
+      <stop offset="0.5" stop-color="#0E1830"/>
+      <stop offset="1" stop-color="#08101E"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#63F7FF"/>
+      <stop offset="1" stop-color="#7B92FF"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#BC71FF"/>
+      <stop offset="1" stop-color="#FF88D8"/>
+    </linearGradient>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1400" height="900" rx="38" fill="url(#bg)"/>
+  <g filter="url(#blur)">
+    <ellipse cx="250" cy="180" rx="170" ry="120" fill="#63F7FF" fill-opacity="0.18"/>
+    <ellipse cx="1110" cy="170" rx="190" ry="120" fill="#BC71FF" fill-opacity="0.16"/>
+    <ellipse cx="1040" cy="720" rx="220" ry="150" fill="#7B92FF" fill-opacity="0.14"/>
+  </g>
+
+  <g opacity="0.18" stroke="#63F7FF" stroke-width="1">
+    <path d="M70 90H1330"/>
+    <path d="M70 170H1330"/>
+    <path d="M70 250H1330"/>
+    <path d="M70 330H1330"/>
+    <path d="M70 410H1330"/>
+    <path d="M70 490H1330"/>
+    <path d="M70 570H1330"/>
+    <path d="M70 650H1330"/>
+    <path d="M70 730H1330"/>
+    <path d="M70 810H1330"/>
+    <path d="M110 60V840"/>
+    <path d="M250 60V840"/>
+    <path d="M390 60V840"/>
+    <path d="M530 60V840"/>
+    <path d="M670 60V840"/>
+    <path d="M810 60V840"/>
+    <path d="M950 60V840"/>
+    <path d="M1090 60V840"/>
+    <path d="M1230 60V840"/>
+  </g>
+
+  <text x="92" y="112" fill="#F7FBFF" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">AI STORYBOARD LAB</text>
+  <text x="92" y="154" fill="#98AFD7" font-family="Arial, Helvetica, sans-serif" font-size="22">where idea, narrative, frame and emotion become one cinematic system</text>
+
+  <rect x="90" y="220" width="360" height="260" rx="26" fill="#0F1931" stroke="#63F7FF" stroke-opacity="0.22"/>
+  <text x="122" y="266" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">01 • RAW IDEA</text>
+  <text x="122" y="306" fill="#92A9D4" font-family="Arial, Helvetica, sans-serif" font-size="19">a thought, a feeling, a product,</text>
+  <text x="122" y="332" fill="#92A9D4" font-family="Arial, Helvetica, sans-serif" font-size="19">a campaign, a human truth</text>
+  <rect x="122" y="364" width="296" height="76" rx="18" fill="#132142"/>
+  <path d="M148 420L194 380L231 402L281 352L324 392L390 334" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="520" y="220" width="360" height="260" rx="26" fill="#0F1931" stroke="#63F7FF" stroke-opacity="0.18"/>
+  <text x="552" y="266" fill="#F7FBFF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">02 • AI SHAPING</text>
+  <text x="552" y="306" fill="#92A9D4" font-family="Arial, Helvetica, sans-serif" font-size="19">prompt logic, variations, structure,</text>
+  <text x="552" y="332" fill="#92A9D4" font-family="Arial, Helvetica, sans-serif" font-size="19">tone refinement and concept depth</text>
+  <circle cx="642" cy="392" r="58" fill="#131E3B" stroke="#BC71FF" stroke-opacity="0.34" stroke-width="2"/>
+  <path d="M612 402L635 360L678 392L705 350" stroke="url(#violet)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="642" cy="392" r="8" fill="#BC71FF"/>
+  <circle cx="678" cy="392" r="8" fill="#63F7FF"/>
+
+  <rect x="950" y="220" width="360" height="260" rx="26" fill="#0F1931" stroke="#BC71FF" stroke-opacity="0.22"/>
+  <text x="982" y="266" fill="#F7FBFF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">03 • CINEMATIC BUILD</text>
+  <text x="982" y="306" fill="#92A9D4" font-family="Arial, Helvetica, sans-serif" font-size="19">frame language, visual rhythm,</text>
+  <text x="982" y="332" fill="#92A9D4" font-family="Arial, Helvetica, sans-serif" font-size="19">emotional pull and premium presence</text>
+  <rect x="1010" y="360" width="240" height="74" rx="18" fill="#132142"/>
+  <circle cx="1086" cy="397" r="28" stroke="url(#violet)" stroke-width="6"/>
+  <path d="M1090 382L1110 397L1090 412V382Z" fill="#E5ADFF"/>
+  <path d="M1152 380H1210" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1152 410H1234" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round"/>
+
+  <rect x="90" y="560" width="1220" height="240" rx="30" fill="#0C152D" stroke="#63F7FF" stroke-opacity="0.16"/>
+  <text x="128" y="616" fill="#F7FBFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">SIGNAL OUTPUTS</text>
+  <text x="128" y="652" fill="#91A7D1" font-family="Arial, Helvetica, sans-serif" font-size="20">reels • scripts • pitch decks • founder websites • campaign narratives • cultural storytelling</text>
+
+  <rect x="126" y="688" width="198" height="70" rx="18" fill="#121F3D" stroke="#63F7FF" stroke-opacity="0.2"/>
+  <text x="164" y="732" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Reel Scripts</text>
+
+  <rect x="350" y="688" width="198" height="70" rx="18" fill="#121F3D" stroke="#63F7FF" stroke-opacity="0.2"/>
+  <text x="390" y="732" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Brand Films</text>
+
+  <rect x="574" y="688" width="198" height="70" rx="18" fill="#121F3D" stroke="#BC71FF" stroke-opacity="0.22"/>
+  <text x="607" y="732" fill="#F2E3FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Pitch Decks</text>
+
+  <rect x="798" y="688" width="198" height="70" rx="18" fill="#121F3D" stroke="#63F7FF" stroke-opacity="0.2"/>
+  <text x="823" y="732" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Identity Sites</text>
+
+  <rect x="1022" y="688" width="248" height="70" rx="18" fill="#121F3D" stroke="#BC71FF" stroke-opacity="0.22"/>
+  <text x="1060" y="732" fill="#F2E3FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Campaign Stories</text>
+</svg>

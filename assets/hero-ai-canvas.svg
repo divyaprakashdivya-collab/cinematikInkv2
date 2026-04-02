@@ -1,0 +1,98 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070E1D"/>
+      <stop offset="0.5" stop-color="#0A1530"/>
+      <stop offset="1" stop-color="#060A16"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(245 180) rotate(47.5) scale(290 250)">
+      <stop stop-color="#5AF7FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#5AF7FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 160) rotate(120) scale(250 250)">
+      <stop stop-color="#9D6CFF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#9D6CFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#5AF7FF"/>
+      <stop offset="1" stop-color="#7E9CFF"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#9D6CFF"/>
+      <stop offset="1" stop-color="#F05DFF"/>
+    </linearGradient>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="900" rx="36" fill="url(#glow1)"/>
+  <rect width="1200" height="900" rx="36" fill="url(#glow2)"/>
+
+  <g opacity="0.24">
+    <path d="M70 90H1130" stroke="#5AF7FF" stroke-opacity="0.32" stroke-width="1"/>
+    <path d="M70 170H1130" stroke="#5AF7FF" stroke-opacity="0.2" stroke-width="1"/>
+    <path d="M70 250H1130" stroke="#5AF7FF" stroke-opacity="0.2" stroke-width="1"/>
+    <path d="M70 330H1130" stroke="#5AF7FF" stroke-opacity="0.2" stroke-width="1"/>
+    <path d="M70 410H1130" stroke="#5AF7FF" stroke-opacity="0.2" stroke-width="1"/>
+    <path d="M70 490H1130" stroke="#5AF7FF" stroke-opacity="0.2" stroke-width="1"/>
+    <path d="M70 570H1130" stroke="#5AF7FF" stroke-opacity="0.2" stroke-width="1"/>
+    <path d="M70 650H1130" stroke="#5AF7FF" stroke-opacity="0.2" stroke-width="1"/>
+    <path d="M70 730H1130" stroke="#5AF7FF" stroke-opacity="0.2" stroke-width="1"/>
+    <path d="M70 810H1130" stroke="#5AF7FF" stroke-opacity="0.32" stroke-width="1"/>
+    <path d="M90 70V830" stroke="#5AF7FF" stroke-opacity="0.28" stroke-width="1"/>
+    <path d="M210 70V830" stroke="#5AF7FF" stroke-opacity="0.16" stroke-width="1"/>
+    <path d="M330 70V830" stroke="#5AF7FF" stroke-opacity="0.16" stroke-width="1"/>
+    <path d="M450 70V830" stroke="#5AF7FF" stroke-opacity="0.16" stroke-width="1"/>
+    <path d="M570 70V830" stroke="#5AF7FF" stroke-opacity="0.16" stroke-width="1"/>
+    <path d="M690 70V830" stroke="#5AF7FF" stroke-opacity="0.16" stroke-width="1"/>
+    <path d="M810 70V830" stroke="#5AF7FF" stroke-opacity="0.16" stroke-width="1"/>
+    <path d="M930 70V830" stroke="#5AF7FF" stroke-opacity="0.16" stroke-width="1"/>
+    <path d="M1050 70V830" stroke="#5AF7FF" stroke-opacity="0.16" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="110" y="140" width="430" height="600" rx="34" fill="#0C142B" fill-opacity="0.82" stroke="#5AF7FF" stroke-opacity="0.18"/>
+    <rect x="145" y="190" width="154" height="32" rx="16" fill="#10203E"/>
+    <rect x="145" y="244" width="280" height="26" rx="13" fill="#F7FBFF" fill-opacity="0.92"/>
+    <rect x="145" y="285" width="228" height="16" rx="8" fill="#89A4D9" fill-opacity="0.7"/>
+    <rect x="145" y="332" width="360" height="150" rx="26" fill="#0D1731" stroke="#5AF7FF" stroke-opacity="0.2"/>
+    <path d="M170 448C211 393 236 356 283 356C330 356 354 406 399 406C446 406 468 350 516 350" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="283" cy="356" r="10" fill="#5AF7FF"/>
+    <circle cx="399" cy="406" r="10" fill="#7E9CFF"/>
+    <circle cx="516" cy="350" r="10" fill="#D078FF"/>
+    <rect x="145" y="522" width="160" height="160" rx="26" fill="#101A35" stroke="#5AF7FF" stroke-opacity="0.16"/>
+    <path d="M185 625L235 566L275 604L314 556" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="330" y="522" width="175" height="74" rx="22" fill="#101A35" stroke="#9D6CFF" stroke-opacity="0.18"/>
+    <rect x="330" y="608" width="175" height="74" rx="22" fill="#101A35" stroke="#5AF7FF" stroke-opacity="0.18"/>
+  </g>
+
+  <g>
+    <rect x="590" y="118" width="500" height="300" rx="34" fill="#0B132A" fill-opacity="0.72" stroke="#9D6CFF" stroke-opacity="0.2"/>
+    <text x="640" y="175" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">AI + CINEMA</text>
+    <text x="640" y="228" fill="#9DB6E6" font-family="Arial, Helvetica, sans-serif" font-size="26">story systems • brand voice • cinematic intelligence</text>
+    <rect x="640" y="270" width="160" height="54" rx="27" fill="url(#cyan)"/>
+    <text x="670" y="304" fill="#07111F" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Creative OS</text>
+    <rect x="826" y="270" width="204" height="54" rx="27" fill="#101A34" stroke="#5AF7FF" stroke-opacity="0.2"/>
+    <text x="856" y="304" fill="#DDF9FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Signal-led Studio</text>
+    <g filter="url(#blur)">
+      <ellipse cx="980" cy="172" rx="70" ry="48" fill="#D078FF" fill-opacity="0.38"/>
+    </g>
+  </g>
+
+  <g>
+    <rect x="590" y="454" width="500" height="286" rx="34" fill="#0C142B" fill-opacity="0.74" stroke="#5AF7FF" stroke-opacity="0.18"/>
+    <circle cx="695" cy="554" r="52" fill="#101A35" stroke="#5AF7FF" stroke-opacity="0.2"/>
+    <path d="M695 520V588" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M661 554H729" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="825" cy="554" r="52" fill="#101A35" stroke="#9D6CFF" stroke-opacity="0.22"/>
+    <path d="M797 580L851 528" stroke="url(#violet)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M797 528L851 580" stroke="url(#violet)" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="955" cy="554" r="52" fill="#101A35" stroke="#5AF7FF" stroke-opacity="0.22"/>
+    <path d="M926 570L945 537L983 569L1005 534" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="655" y="657" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Prompt</text>
+    <text x="782" y="657" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Edit</text>
+    <text x="920" y="657" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Scale</text>
+    <text x="644" y="697" fill="#9DB6E6" font-family="Arial, Helvetica, sans-serif" font-size="20">from instinct to repeatable creative output</text>
+  </g>
+</svg>

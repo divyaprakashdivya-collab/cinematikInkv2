@@ -1,0 +1,36 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="86" y1="68" x2="704" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07101F"/>
+      <stop offset="1" stop-color="#101C37"/>
+    </linearGradient>
+    <linearGradient id="line" x1="160" y1="148" x2="630" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5AF7FF"/>
+      <stop offset="0.48" stop-color="#7A96FF"/>
+      <stop offset="1" stop-color="#D16EFF"/>
+    </linearGradient>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+  <rect x="30" y="30" width="740" height="740" rx="42" fill="url(#bg)"/>
+  <circle cx="402" cy="395" r="240" stroke="#5AF7FF" stroke-opacity="0.12"/>
+  <circle cx="402" cy="395" r="182" stroke="#5AF7FF" stroke-opacity="0.12"/>
+  <circle cx="402" cy="395" r="122" stroke="#5AF7FF" stroke-opacity="0.12"/>
+  <g filter="url(#blur)">
+    <ellipse cx="554" cy="250" rx="94" ry="66" fill="#D16EFF" fill-opacity="0.32"/>
+    <ellipse cx="264" cy="512" rx="88" ry="54" fill="#5AF7FF" fill-opacity="0.28"/>
+  </g>
+  <path d="M163 476C243 398 261 267 399 267C540 267 553 398 636 479" stroke="url(#line)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M225 455C254 507 313 548 400 548C487 548 546 507 575 455" stroke="url(#line)" stroke-width="9" stroke-linecap="round"/>
+  <path d="M302 368C302 322 336 283 400 283C464 283 498 322 498 368" stroke="url(#line)" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="400" cy="395" r="18" fill="#F9FDFF"/>
+  <circle cx="302" cy="368" r="12" fill="#5AF7FF"/>
+  <circle cx="498" cy="368" r="12" fill="#D16EFF"/>
+  <circle cx="225" cy="455" r="12" fill="#7A96FF"/>
+  <circle cx="575" cy="455" r="12" fill="#7A96FF"/>
+  <text x="90" y="112" fill="#DFFBFF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">DIVYA PRAKASH</text>
+  <text x="90" y="152" fill="#8FA8D7" font-family="Arial, Helvetica, sans-serif" font-size="20">signal-driven storyteller • ai systems thinker • cinematic voice</text>
+  <rect x="90" y="620" width="620" height="74" rx="24" fill="#101A35" stroke="#5AF7FF" stroke-opacity="0.2"/>
+  <text x="130" y="667" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">human emotion × ai structure × screen instinct</text>
+</svg>
